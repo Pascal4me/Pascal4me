@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pascal4me
 - 👀 I’m interested in Blockchain technology
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking for an internship at a crypto/blockchain/NFT/DeFi based organisation.
+- 🌱 I’m currently a web3 security researcher 
+- 🫡 Opportunities are always  welcome 
 - 📫 How to reach me; twitter @heispascal
 
 <!---
